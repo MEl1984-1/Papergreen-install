@@ -1,0 +1,5 @@
+# Install dependencies (one line)
+pip install fastapi uvicorn requests stripe pytz
+
+# Run bot in production mode
+python paper_green_fx_production.py
